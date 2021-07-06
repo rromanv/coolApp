@@ -6,7 +6,7 @@ namespace coolApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello There!");
+            Console.WriteLine("Hello There Again!");
             Stuff stuff = new();
             stuff.x = 3;
             stuff.y = 2;
